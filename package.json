@@ -1,0 +1,25 @@
+{
+  "name": "mern-lab-fe",
+  "version": "1.0.0",
+  "description": "MERN Front-End",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmach418/MERN-lab-fe.git"
+  },
+  "author": "nmach418",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmach418/MERN-lab-fe/issues"
+  },
+  "homepage": "https://github.com/nmach418/MERN-lab-fe#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "react-router-dom": "^4.3.1"
+  }
+}
